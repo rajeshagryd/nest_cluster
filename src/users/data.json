@@ -1,0 +1,38 @@
+[
+  {
+    "id": "be5fa5db-0fe5-44c1-90b5-31ce1ce62f8b",
+    "username": "Rajesh Kumar",
+    "age": 35,
+    "hobbies": [
+      "Coding",
+      "Chess"
+    ]
+  },
+  {
+    "username": "Rajesh Khanna",
+    "age": 55,
+    "hobbies": [
+      "Coding",
+      "Bowing"
+    ],
+    "id": "be5fa5db-0fe5-44c1-90b5-31ce1ce62f8a"
+  },
+  {
+    "username": "Mukesh Khanna",
+    "age": 63,
+    "hobbies": [
+      "Singing",
+      "Actor"
+    ],
+    "id": "2ff9fb84-1515-4fd5-8d36-47902a80bc88"
+  },
+  {
+    "username": "Mukesh BhauJI",
+    "age": 75,
+    "hobbies": [
+      "Dancing",
+      "Actor"
+    ],
+    "id": "cb1d994b-acb3-454d-9d99-7b14dd320dd3"
+  }
+]
